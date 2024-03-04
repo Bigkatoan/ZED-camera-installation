@@ -1,4 +1,7 @@
 # ZED-camera-installation
+
+https://www.stereolabs.com/docs/installation/linux
+
 *note: TX2 use ZED SDK 2.4.0
 Installation for zed camera
 
