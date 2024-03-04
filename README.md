@@ -19,7 +19,7 @@ https://www.stereolabs.com/developers/release#82af3640d775
 
 Run file
 ```
-bash /SDK ubuntu/ZED_SDK_Ubuntu22_cuda12.1_v4.0.8.zstd.run
+bash ZED_SDK_Ubuntu22_cuda12.1_v4.0.8.zstd.run
 ```
 
 You can yes all but if you want to use your own model you can said no to AI module.
