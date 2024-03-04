@@ -1,5 +1,14 @@
 # ZED-camera-installation
 Installation for zed camera
+
+## Preinstall.
+
+```
+conda install -c conda-forge gcc
+python -m pip install cython numpy
+python -m pip install opencv-python pyopengl
+```
+
 ## Install SDK for ubuntu.
 Run file
 ```
