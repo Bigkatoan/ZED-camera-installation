@@ -1,4 +1,5 @@
 # ZED-camera-installation
+*note: TX2 use ZED SDK 2.4.0
 Installation for zed camera
 
 ## Preinstall.
