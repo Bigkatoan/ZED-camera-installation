@@ -10,6 +10,13 @@ python -m pip install opencv-python pyopengl
 ```
 
 ## Install SDK for ubuntu.
+
+Download file from
+
+```
+https://www.stereolabs.com/developers/release#82af3640d775
+```
+
 Run file
 ```
 bash /SDK ubuntu/ZED_SDK_Ubuntu22_cuda12.1_v4.0.8.zstd.run
