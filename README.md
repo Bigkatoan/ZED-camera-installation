@@ -42,3 +42,8 @@ Installation code will look like this and you just need to install it like norma
 ```
 pip install --ignore-installed /home/user/pyzed-4.0-cp311-cp311-linux_x86_64.wh
 ```
+# Fix bugs
+
+```
+https://support.stereolabs.com/hc/en-us/articles/8422008229143-How-can-I-solve-OpenGL-issues-under-Ubuntu
+```
