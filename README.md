@@ -8,6 +8,7 @@ Installation for zed camera
 ## Preinstall.
 
 ```
+python -m pip install requests
 conda install -c conda-forge gcc
 python -m pip install cython numpy
 python -m pip install opencv-python pyopengl
